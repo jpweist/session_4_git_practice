@@ -1,0 +1,2 @@
+git init is how to initalize the git tracking
+git status is a way to check the status of the folder

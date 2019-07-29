@@ -1,0 +1,2 @@
+an array is a type of value that contains a sequence of values.
+class are difined to create objects ex: made person class and holds name and age
